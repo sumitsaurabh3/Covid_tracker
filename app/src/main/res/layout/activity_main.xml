@@ -68,7 +68,6 @@
         android:layout_height="59dp"
         android:layout_marginTop="112dp"
         android:fontFamily="sans-serif-medium"
-
         android:text="@string/VERIFY_CERTIFICATE"
         android:textSize="18sp"
         android:textStyle="bold"

@@ -2,9 +2,10 @@
     <string name="app_name">CovPass</string>
     <string name="button">button</string>
     <string name="result">result</string>
-<string name="verify">verify</string>
+    <string name="verify">verify</string>
     <string name="Verifier">Verifier</string>
     <string name="VERIFY_CERTIFICATE">VERIFY CERTIFICATE</string>
     <string name="scan">SCAN</string>
     <string name="Upload">UPLOAD</string>
+    <string name="scan_barcode">Scan BarCode</string>
 </resources>
