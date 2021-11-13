@@ -8,4 +8,6 @@
     <string name="scan">SCAN</string>
     <string name="Upload">UPLOAD</string>
     <string name="scan_barcode">Scan BarCode</string>
+    <string name="barcode_not_deducted">Barcode not deducted</string>
+    <string name="move_to_qr_code">MOVE TO QR CODE</string>
 </resources>

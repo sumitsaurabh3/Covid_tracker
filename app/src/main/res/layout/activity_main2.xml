@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#8C9EFF"
+    android:background="#F3F4F8"
     tools:context=".MainActivity2">
 
     <Button
@@ -14,7 +14,7 @@
         android:layout_gravity="bottom"
         android:text="@string/scan"
         android:textSize="24sp"
-        app:backgroundTint="#D32323"
+        app:backgroundTint="#235ED3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button2"
         app:layout_constraintHorizontal_bias="0.296"
@@ -31,7 +31,7 @@
         android:layout_marginRight="32dp"
         android:text="@string/Upload"
         android:textSize="24sp"
-        app:backgroundTint="#EF0A0A"
+        app:backgroundTint="#0A43EF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
@@ -51,5 +51,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.586"
-        app:srcCompat="@drawable/qr" />
+        app:srcCompat="@drawable/covpass_img" />
 </androidx.constraintlayout.widget.ConstraintLayout>
