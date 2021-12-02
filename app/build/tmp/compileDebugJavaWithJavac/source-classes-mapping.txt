@@ -1,0 +1,4 @@
+com/example/covpass/MainActivity.java
+ com.example.covpass.MainActivity
+com/example/covpass/BuildConfig.java
+ com.example.covpass.BuildConfig
