@@ -24,7 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b45c7c8-52e7-4d4a-b0c5-80ba3a859a08" name="Default Changelist" comment=" Covid tracker" />
+    <list default="true" id="0b45c7c8-52e7-4d4a-b0c5-80ba3a859a08" name="Default Changelist" comment=" Covid tracker">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638435287701</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=" Covid tracker">
+      <created>1638435961300</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638435961300</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,10 +302,10 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="638" y="291" key="#Notifications" timestamp="1638435396763">
+    <state x="638" y="291" key="#Notifications" timestamp="1638436323482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="638" y="291" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1638435396763" />
+    <state x="638" y="291" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1638436323482" />
     <state x="286" y="158" key="#PSD" timestamp="1635740713537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -341,10 +350,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638435332897" />
-    <state x="647" y="310" width="241" height="276" key="Github.ShareDialog" timestamp="1638421114285">
+    <state x="647" y="310" width="241" height="276" key="Github.ShareDialog" timestamp="1638435849181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="647" y="310" width="241" height="276" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1638421114285" />
+    <state x="647" y="310" width="241" height="276" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1638435849181" />
     <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1637645664466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -369,14 +378,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="462" y="130" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1637639244032" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1638435761975">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1638436396443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1638435761975" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1638435382876">
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1638436396443" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1638436291621">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1638435382876" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1638436291621" />
     <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1635911443026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
