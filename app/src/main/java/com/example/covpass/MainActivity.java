@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button btn_scan;
+     Button btn_scan;
     private ImageView imageView;
     private TextView textView,TextView2;
     @Override

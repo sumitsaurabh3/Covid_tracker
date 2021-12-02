@@ -39,7 +39,8 @@
         android:layout_width="match_parent"
         android:layout_height="62dp"
         android:layout_alignParentBottom="true"
-        android:text="@string/move_to_qr_code"
+        android:text="@string/Open_Link"
+        android:textSize="30dp"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="667dp" />
 
