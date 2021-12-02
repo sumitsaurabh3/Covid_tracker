@@ -24,7 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b45c7c8-52e7-4d4a-b0c5-80ba3a859a08" name="Default Changelist" comment="" />
+    <list default="true" id="0b45c7c8-52e7-4d4a-b0c5-80ba3a859a08" name="Default Changelist" comment="Covid-19">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,8 +50,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sumit saurabh" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/sumitsaurabh3/Covid-Certificate-Verify" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1yt08A5j3TgY2GTqmOFrhkEuvCd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -221,7 +235,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638419867500</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Covid 19">
+      <created>1638420127376</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638420127376</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Covid 19">
+      <created>1638420243489</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638420243489</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +257,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -243,7 +277,9 @@
     <MESSAGE value="camera qr frame size" />
     <MESSAGE value="Covid 19 Details" />
     <MESSAGE value="Covid 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="Covid 19" />
+    <MESSAGE value="Covid-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Covid-19" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="638" y="291" key="#Notifications" timestamp="1638419825887">
@@ -274,10 +310,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="614" y="215" key="AndroidCreateXmlResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1637070647881" />
-    <state x="374" y="0" key="CommitChangelistDialog2" timestamp="1638419866611">
+    <state x="374" y="0" key="CommitChangelistDialog2" timestamp="1638420969946">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="374" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1638419866611" />
+    <state x="374" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1638420969946" />
     <state x="449" y="167" key="Downloadable.Font.Dialog.Size" timestamp="1633059148431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -286,6 +322,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638420060542" />
+    <state x="647" y="310" width="241" height="276" key="Github.ShareDialog" timestamp="1638421114285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" width="241" height="276" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1638421114285" />
     <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1637645664466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -310,10 +350,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="462" y="130" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1637639244032" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1638419275120">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1638420894768">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1638419275120" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1638420894768" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1638419799952">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -322,9 +362,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1635911443026" />
-    <state x="579" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1638419837937">
+    <state x="579" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1638421174389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="579" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1638419837937" />
+    <state x="579" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1638421174389" />
   </component>
 </project>
