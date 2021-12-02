@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SUMIT SAURABH\\AndroidStudioProjects\\CovPass\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\SUMIT SAURABH\\Desktop\\CovPass\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\android studio gradle\\gradle-7.2-all\\gradle-7.2\\caches\\transforms-3\\1baf2d5f2dfadfec41104e5497e8b051\\transformed\\material-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\android studio gradle\\gradle-7.2-all\\gradle-7.2\\caches\\transforms-3\\4c6a019a98f4fd592d28bbd909623b16\\transformed\\appcompat-1.3.1\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,38",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,170,254,338,434,536,638,3313",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "165,249,333,429,531,633,727,3397"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\SUMIT SAURABH\\AndroidStudioProjects\\CovPass\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\SUMIT SAURABH\\Desktop\\CovPass\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -54,6 +37,23 @@
                         "endLines": "21",
                         "endColumns": "12",
                         "endOffsets": "1446"
+                    }
+                },
+                {
+                    "source": "C:\\android studio gradle\\gradle-7.2-all\\gradle-7.2\\caches\\transforms-3\\4c6a019a98f4fd592d28bbd909623b16\\transformed\\appcompat-1.3.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,38",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,170,254,338,434,536,638,3313",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "165,249,333,429,531,633,727,3397"
                     }
                 }
             ]

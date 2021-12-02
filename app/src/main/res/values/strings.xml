@@ -3,11 +3,29 @@
     <string name="button">button</string>
     <string name="result">result</string>
     <string name="verify">verify</string>
-    <string name="Verifier">Verifier</string>
-    <string name="VERIFY_CERTIFICATE">VERIFY CERTIFICATE</string>
+    <string name="Verifier">Certificate Verifier</string>
+    <string name="Next">Next</string>
     <string name="scan">SCAN</string>
     <string name="Upload">UPLOAD</string>
     <string name="scan_barcode">Scan BarCode</string>
     <string name="barcode_not_deducted">Barcode not deducted</string>
     <string name="Open_Link">Open</string>
+    <string name="cases">Covid Cases</string>
+    <string name="today_deaths">Today Deaths</string>
+    <string name="covid_19_cases">Covid-19 Cases</string>
+    <string name="total_cases">Total Cases</string>
+
+    <string name="recovered">Recovered</string>
+
+    <string name="critical">Critical</string>
+
+    <string name="active">Active</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="_0">0</string>
+    <string name="total_deaths">Total Deaths</string>
+
+    <string name="affected_countries">Affected Countries</string>
+    <string name="covid_19_tracker_and">Covid-19 Tracker and</string>
+
+
 </resources>
